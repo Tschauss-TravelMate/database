@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS tschuss;
-USE Tschuss;
-
 CREATE TABLE user(
     user_id VARCHAR(20) NOT NULL,
     user_name VARCHAR(100) NOT NULL,
